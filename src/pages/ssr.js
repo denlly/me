@@ -1,4 +1,5 @@
 import Link from 'next/link'
+/*disable-eslint*/
 export default function SSR({ formattedDate }) {
     return (
       <>
