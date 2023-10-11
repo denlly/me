@@ -1,9 +1,10 @@
-import React, { Component } from 'react'
-// import "@/styles/index.css"
-import Sidebar from '../components/sidebar'
-import Introduction from '../components/introduction'
-import About from '../components/about'
-import Timeline from '../components/timeline'
+import React, { Component } from 'react';
+import './styles/App.css';
+// import './styles/globals'
+import Sidebar from './components/sidebar'
+import Introduction from './components/introduction'
+import About from './components/about'
+import Timeline from './components/timeline'
 
 class App extends Component {
   render() {
