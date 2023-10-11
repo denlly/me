@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './styles/App.css';
-// import './styles/globals'
+
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
