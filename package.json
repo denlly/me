@@ -7,9 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d .next"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "13.5.4",
