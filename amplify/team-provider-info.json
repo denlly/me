@@ -10,6 +10,15 @@
       "StackName": "amplify-menext-dev-02953",
       "StackId": "arn:aws:cloudformation:us-east-1:532187646029:stack/amplify-menext-dev-02953/410a35c0-678a-11ee-9a39-0aa74dde573f",
       "AmplifyAppId": "d1edpnfo2ujj9s"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1edpnfo2ujj9s",
+          "type": "manual"
+        },
+        "S3AndCloudFront": {}
+      }
     }
   }
 }
